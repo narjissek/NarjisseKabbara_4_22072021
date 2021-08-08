@@ -501,7 +501,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 40px!important;
 }
 
 .icon-lg {
@@ -512,11 +512,16 @@ button {
     text-shadow: 0 1px 2px rgba(0, 0, 0, .3);
 }
 
+.hidden {
+    display: none;
+}
+
 .panel-sq,
 .panel-sq .panel-heading,
 .panel-sq .panel-footer {
     border-radius: 0;
 }
+
 
 .panel-rd {
     border-radius: 30px;
@@ -733,6 +738,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    
 }
 
 h2 {
